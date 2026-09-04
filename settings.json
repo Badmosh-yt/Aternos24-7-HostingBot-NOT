@@ -1,18 +1,18 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "BOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
-    "version": "",
-    "try-creative": false
+    "ip": "Badmoshcrazy.aternos.me",
+    "port": 32739,
+    "version": "1.21.11",
+    "try-creative": true
   },
   "position": {
-    "enabled": true,
+    "enabled": false,
     "x": 0,
     "y": 100,
     "z": 0
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "YourAuthPassword"
+      "password": "deepakqwerty"
     },
     "anti-afk": {
       "enabled": true,
@@ -42,7 +42,7 @@
   },
   "movement": {
     "enabled": true,
-    "circle-walk": {
+    "random-walk": {
       "enabled": true,
       "radius": 4,
       "speed": 3000
@@ -82,6 +82,6 @@
   },
   "chat": {
     "respond": true,
-    "tpWhitelist": ["YourMinecraftUsername"]
+    "tpWhitelist": ["Badmosh01"]
   }
 }
