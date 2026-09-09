@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "BOT",
+    "username": "Death",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Badmoshcrazy.aternos.me",
-    "port": 32739,
+    "ip": "Badmosh_01_YT.aternos.me",
+    "port": 62006,
     "version": "1.21.11",
     "try-creative": true
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "deepakqwerty"
+      "password": ""
     },
     "anti-afk": {
       "enabled": true,
@@ -82,6 +82,6 @@
   },
   "chat": {
     "respond": true,
-    "tpWhitelist": ["Badmosh01"]
+    "tpWhitelist": [""]
   }
 }
